@@ -1,5 +1,6 @@
 body {
-    background-color: whitesmoke; 
+    font-family: "Segoe UI", Times New Roman, sans-serif;
+	background-color: whitesmoke; 
     display: flex;
     justify-content: center;
 }
